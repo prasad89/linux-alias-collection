@@ -38,6 +38,5 @@ Ladies and gentlemen, meet your new best friends:
 
 - **system-upgrade**: Make your system all shiny and new with updates, upgrades, and fresh snaps.
 - **system-cleanup**: Tired of digital junk cluttering your system? We'll sweep it away like it's nothing!
-- **clean-bash-history**: Time to erase your bash's embarrassing past. It's like a digital makeover for your command line.
 
 Get ready to command Ubuntu like a wizard with our shortcut spells!

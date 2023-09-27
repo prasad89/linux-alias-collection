@@ -38,5 +38,6 @@ Ladies and gentlemen, meet your new best friends:
 
 - **system-upgrade**: Make your system all shiny and new with updates, upgrades, and fresh snaps.
 - **system-cleanup**: Tired of digital junk cluttering your system? We'll sweep it away like it's nothing!
+- **docker-cleanup**: Say goodbye to the docker clutter. We tidy up those containers and images, leaving your system sleek and docker-licious!
 
 Get ready to command Ubuntu like a wizard with our shortcut spells!

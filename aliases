@@ -1,0 +1,4 @@
+# custom aliases
+alias system-upgrade='~/.alias-collection/system-upgrade.sh'
+alias system-cleanup='~/.alias-collection/system-cleanup.sh'
+alias clean-bash-history='~/.alias-collection/clean-bash-history.sh'

@@ -9,7 +9,7 @@ Welcome to the Ubuntu Alias Collection, where we've rounded up some nifty tricks
 First things first, fetch these magic tricks with a little git clone action:
 
 ```bash
-git clone https://github.com/your-username/ubuntu-alias-collection.git
+git clone https://github.com/prasad89/ubuntu-alias-collection.git
 ```
 
 ### Step 2: The Hunt Begins
